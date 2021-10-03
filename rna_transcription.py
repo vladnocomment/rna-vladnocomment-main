@@ -13,6 +13,7 @@ def to_rna(dna_strand):
         elif i == 'T':
             new += 'A'
         else:
+
             new += 'C'
     return (new)
 
