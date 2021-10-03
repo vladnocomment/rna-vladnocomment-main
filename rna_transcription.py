@@ -14,6 +14,5 @@ def to_rna(dna_strand):
             new += 'A'
         else:
             new += 'C'
-
     return (new)
 
